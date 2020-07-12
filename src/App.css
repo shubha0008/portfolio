@@ -1,0 +1,9 @@
+
+
+.Display ul {
+	display: flex;
+	text-align: center;
+	justify-content: space;
+  background-color: #fcd12a;
+  align-content: center;
+}
